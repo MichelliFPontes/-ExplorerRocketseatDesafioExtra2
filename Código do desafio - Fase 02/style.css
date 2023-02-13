@@ -31,6 +31,10 @@ body {
     text-decoration: none;
   }
 
+  nav img {
+    align-items: center;
+  }
+
   ul li a {
     color: #1F1534;
     text-decoration: none;
